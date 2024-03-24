@@ -1,0 +1,13 @@
+.topIcon {
+    display:flex;
+    background-color: black;
+    visibility: visible;
+    border-radius: 5px;
+    bottom: 10px;
+    right: 10px;
+    position: fixed;
+}
+
+.topIcon:hover {
+    cursor:pointer;
+}
