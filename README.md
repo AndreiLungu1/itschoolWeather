@@ -5,4 +5,4 @@ If we select one of the displayed cities, the weather forecast for that city wil
 
 Discover the secret to perfect preparation for any day! With our weather app, you'll always have accurate and useful information about the weather in your area at your fingertips. Be prepared for any weather conditions and explore our weather app now!
 
-[Weather App](https://prognoza-meteo-andrei-lungu.netlify.app)
+[Weather App](https://stupendous-chimera-da8278.netlify.app)
