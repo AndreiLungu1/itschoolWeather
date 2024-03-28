@@ -6,9 +6,12 @@ const currentCityTag = document.querySelector(".current-city");
 if(currentCityFromLs){
     currentCityTag.innerHTML = currentCityFromLs
 }
-
+if(currentCityFromLs) {
+localStorage.setItem("city", "Bucharest");
+    currentCityFromLs = "Bucharest";
+}
 //Afisam vremea curenta folosind o functie din alt fisier
-displayCurrentWeather('Bucharest');
+displayCurrentWeather(currentCityFromLs);
 
 //Afisam vremea pe urmatoarele 5 zile
 displayWeatherForecast(currentCityFromLs);
